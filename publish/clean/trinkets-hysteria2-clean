@@ -1,5 +1,6 @@
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#🇺🇸 2 - US - Hysteria2/QUIC - 1743
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#🇺🇸 5 - US - Hysteria2/QUIC - 1743
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#🇺🇸 2 - US - Hysteria2/QUIC - 25000
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#🇺🇸 5 - US - Hysteria2/QUIC - 25000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&insecure=0#🇳🇱 44 - NL - Hysteria2/QUIC/OBFS - 35000
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 45 - DE - Hysteria2/QUIC/OBFS - 35000
@@ -32,3 +33,5 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 39 - NL - Hysteria2/QUIC/OBFS - 36400
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 53 - NL - Hysteria2/QUIC/OBFS - 36400
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 54 - NL - Hysteria2/QUIC/OBFS - 36400
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 33 - NL - Hysteria2/QUIC/OBFS - 36300
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 34 - NL - Hysteria2/QUIC/OBFS - 36400
