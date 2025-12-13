@@ -10,6 +10,10 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#�
 hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#🇫🇷 71 - FR - Hysteria2/QUIC - 5355
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#🇫🇷 54 - FR - Hysteria2/QUIC - 5355
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#🇫🇷 72 - FR - Hysteria2/QUIC - 5355
+hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#🇷🇺 29 - RU - Hysteria2/QUIC - 443
+hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#🇷🇺 44 - RU - Hysteria2/QUIC - 443
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#🇷🇺 30 - RU - Hysteria2/QUIC - 443
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#🇷🇺 45 - RU - Hysteria2/QUIC - 443
 hysteria2://SNItest@46.243.235.119:443?insecure=1&sni=gazprombank.ru#🇷🇺 31 - RU - Hysteria2/QUIC - 443
 hysteria2://SNItest@46.243.235.119:443?insecure=1&sni=gazprombank.ru#🇷🇺 46 - RU - Hysteria2/QUIC - 443
 hysteria2://SNItest@46.243.235.119:443?security=tls&insecure=1&sni=gazprombank.ru#🇷🇺 32 - RU - Hysteria2/QUIC - 443
