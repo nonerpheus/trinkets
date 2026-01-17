@@ -36,8 +36,6 @@ vless://0507fbcd-b983-43a7-8e1d-2c561960ad4f@4bb6-b667-f88608d19fd5.664.qzz.io:4
 
 vless://0507fbcd-b983-43a7-8e1d-2c561960ad4f@a76-4179-8a78-c8b78b3c00cb.664.qzz.io:443?encryption=none&security=tls&sni=a76-4179-8a78-c8b78b3c00cb.664.qzz.io&type=ws&host=A76-4179-8a78-c8B78b3C00cB.664.QzZ.IO&path=/a0XhDU2Cxr9noOhn#🇺🇸 018 - US - VLESS/WS/TLS
 
-vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@185.117.0.185:651?mode=gun&security=reality&encryption=none&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&sni=www.stackoverflow.com&sid=86ba053c74aaba8e#🇳🇱 019 - NL - VLESS/GRPC/REALITY/PBK/SID/UTLS
-
 vless://051de884-d4d2-4b59-b740-a10795c78ad2@hxogg.kneti.ir:3939?security=reality&encryption=none&pbk=JzsZx2Io_hckFYtHgGh9Q6c-4k-lkgtAgCHxiMTDwgg&headerType=none&spx=/&type=tcp&sni=refersion.com&sid=b7c2547d2c6ddfea#🇩🇪 020 - DE - VLESS/REALITY/PBK/SID
 
 vless://051de884-d4d2-4b59-b740-a10795c78ad2@hxogg.kneti.ir:3939?security=reality&type=tcp&sni=refersion.com&fp=chrome&sid=b7c2547d2c6ddfea&pbk=JzsZx2Io_hckFYtHgGh9Q6c-4k-lkgtAgCHxiMTDwgg&encryption=none#🇩🇪 021 - DE - VLESS/REALITY/PBK/SID/UTLS
