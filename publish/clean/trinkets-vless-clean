@@ -1,7 +1,0 @@
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 28 - GB - VLESS - 17166
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?encryption=none&type=grpc#🇩🇪 62 - DE - VLESS/GRPC - 443
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?security=none&encryption=none&type=ws&host=cdn.ir&path=/news#🇩🇪 98 - DE - VLESS/WS - 80
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?path=/news&encryption=none&host=cdn.ir&type=ws#🇩🇪 98 - DE - VLESS/WS - 80
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?path=/news&encryption=none&host=cdn.ir&type=ws#🇩🇪 99 - DE - VLESS/WS - 80
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?type=ws&encryption=none&host=cdn.ir&path=/news#🇩🇪 100 - DE - VLESS/WS - 80
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?type=ws&encryption=none&host=cdn.ir&path=/news#🇩🇪 99 - DE - VLESS/WS - 80
