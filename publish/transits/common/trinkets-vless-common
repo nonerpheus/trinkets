@@ -1,57 +1,13 @@
-vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095?type=ws&encryption=none&host=fangbinxingnmsl.pusytroller.cf&path=/#🇺🇸 00000 - US
+vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&headerType=http&host=Excoino.com&type=tcp#🇩🇪 00000 - DE
 
-vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&headerType=http&host=Excoino.com&type=tcp#🇩🇪 00001 - DE
+vless://1f3b130d-7d29-45d1-b5aa-adc5cd94a885@sktr.berkeart.ir:19702?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=check-host.net&sid=6ba85179e30d4fc2#🇫🇷 00001 - FR
 
-vless://1f3b130d-7d29-45d1-b5aa-adc5cd94a885@sktr.berkeart.ir:19702?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=check-host.net&sid=6ba85179e30d4fc2#🇫🇷 00002 - FR
+vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#🇩🇪 00002 - DE
 
-vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#🇩🇪 00003 - DE
+vless://%40SEGVPN@gcre.segstar.info:10100?security=reality&encryption=none&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🇩🇪 00003 - DE
 
-vless://%40SEGVPN@gcre.segstar.info:10100?security=reality&encryption=none&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🇩🇪 00004 - DE
+vless://123d4832-db2b-4376-be63-f60858cc328e@fr-1.bot-iphone.ru:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=samsung.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇫🇷 00004 - FR
 
-vless://0a14c5c8-28b5-41e8-bce9-76e140dbe3ea@79.127.177.155:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&path=/#🇨🇦 00005 - CA
-
-vless://2ad04efa-d18a-442b-875f-48d12e11d822@u1.mizulina.top:22231?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=u1.mizulina.top#🇳🇱 00006 - NL
-
-vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@mianfeijiedianscp.buzz:443?type=ws&encryption=none&host=mianfeijiedianscp.buzz&path=/&security=tls&sni=mianfeijiedianscp.buzz&allowInsecure=1#🇺🇸 00007 - US
-
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@104.17.74.206:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#🇺🇸 00008 - US
-
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@172.64.152.23:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#🇺🇸 00009 - US
-
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@188.114.98.0:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#🇺🇸 00010 - US
-
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@69.84.182.103:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#🇺🇸 00011 - US
-
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@iran.zone-server-irani.ir:443?type=ws&encryption=none&host=apexbhao1.qzz.io&path=/43.218.77.16=1443&security=tls&sni=apexbhao1.qzz.io&allowInsecure=1#🇷🇺 00012 - RU
-
-vless://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@172.64.152.23:443?path=/213.35.100.31=47112&security=tls&encryption=none&host=afsbconfessout.qzz.io&type=ws&sni=afsbconfessout.qzz.io#🇺🇸 00013 - US
-
-vless://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@172.64.152.23:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=0&host=afsbconfessout.qzz.io&type=ws&allowInsecure=0&sni=afsbconfessout.qzz.io#🇺🇸 00014 - US
-
-vless://120cedcb-c8a0-4096-8fa0-137b041d41ed@202.148.53.142:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#🇳🇱 00015 - NL
-
-vless://123d4832-db2b-4376-be63-f60858cc328e@ch-1.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com&sid=6ba85179e30d4fc2#🇨🇭 00016 - CH
-
-vless://123d4832-db2b-4376-be63-f60858cc328e@fr-1.bot-iphone.ru:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=samsung.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇫🇷 00017 - FR
-
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@cdn.2020111.xyz:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed=2048#🇺🇸 00018 - US
-
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@lively-brook-c471.nedena3319.workers.dev:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed=2048#🇺🇸 00019 - US
-
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@95.179.168.188:443?type=ws&encryption=none&host=sni.111000.de5.net&path=/?ed=2560&security=tls&sni=sni.111000.de5.net&allowInsecure=1&fp=chrome#🇩🇪 00020 - DE
-
-vless://1b9d8449-479f-40a0-a326-1a5ea3481c42@172.64.152.23:443?path=/&security=tls&encryption=none&insecure=0&host=ch1.sooot.ir&fp=chrome&type=ws&allowInsecure=0&sni=ch1.sooot.ir#🇺🇸 00021 - US
-
-vless://1c2cb6e4-1594-4ba1-8b2b-ac26d0eadc00@172.64.152.23:443?path=/video&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=www.alitehran.ir&fp=chrome&type=ws&sni=www.alitehran.ir#🇺🇸 00022 - US
-
-vless://1c2cb6e4-1594-4ba1-8b2b-ac26d0eadc00@chatgpt.com:443?encryption=none&security=tls&sni=www.alitehran.ir&alpn=h3,h2,http/1.1&allowInsecure=1&type=ws&host=www.alitehran.ir&path=/video#🇺🇸 00023 - US
-
-vless://1d6a4595-2568-4262-a3fc-99270ef3f51f@151.101.66.219:80?mode=auto&path=/&encryption=none&host=cdndigikala.com&type=xhttp#🇺🇸 00024 - US
-
-vless://1e0f776a-917c-4e12-824d-cc3419b18471@chatgpt.com:443?path=/36.95.152.58=12137&security=tls&encryption=none&host=delta090.qzz.io&allowinsecure=0&type=ws&sni=delta090.qzz.io#🇺🇸 00025 - US
-
-vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?encryption=none&host=chess.com&headerType=http&type=tcp#🇳🇱 00026 - NL
-
-vless://2ad04efa-d18a-442b-875f-48d12e11d822@u1.mizulina.top:22231?allowInsecure=0&sni=u1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 00027 - NL
+vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?encryption=none&host=chess.com&headerType=http&type=tcp#🇳🇱 00005 - NL
 
 
