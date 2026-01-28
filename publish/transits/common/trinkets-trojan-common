@@ -76,30 +76,14 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=ww
 
 trojan://fc884373-9a30-4ce8-9add-15f76323d3f9@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com&path=/#🇹🇼 00038 - TW
 
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment&allow_insecure=0#🇺🇸 00039 - US
+trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?sni=node-id-1.v2sv.top&path=/#🇮🇩 00039 - ID
 
-trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?sni=node-id-1.v2sv.top&path=/#🇮🇩 00040 - ID
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&fp=chrome&path=/#🇳🇴 00040 - NO
 
-trojan://telegram-id-directvpn@13.38.222.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00041 - FR
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&path=/#🇳🇴 00041 - NO
 
-trojan://telegram-id-directvpn@13.39.252.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00042 - FR
+trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network&path=/#🇩🇪 00042 - DE
 
-trojan://telegram-id-directvpn@15.188.224.186:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00043 - FR
-
-trojan://telegram-id-privatevpns@13.38.222.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00044 - FR
-
-trojan://telegram-id-privatevpns@13.39.252.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00045 - FR
-
-trojan://telegram-id-privatevpns@15.188.224.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00046 - FR
-
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&fp=chrome&path=/#🇳🇴 00047 - NO
-
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&path=/#🇳🇴 00048 - NO
-
-trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network&path=/#🇩🇪 00049 - DE
-
-trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network&type=ws&host=free-de-3.undef.network&path=/f2fc2a1f#🇩🇪 00050 - DE
-
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&type=tcp&headerType=none&path=/#🇳🇿 00051 - NZ
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&type=tcp&headerType=none&path=/#🇳🇿 00043 - NZ
 
 
