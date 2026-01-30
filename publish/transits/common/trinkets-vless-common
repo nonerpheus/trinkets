@@ -2,46 +2,24 @@ vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none
 
 vless://1f3b130d-7d29-45d1-b5aa-adc5cd94a885@sktr.berkeart.ir:19702?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=check-host.net&sid=6ba85179e30d4fc2#🇫🇷 00001 - FR
 
-vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#🇩🇪 00002 - DE
+vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?encryption=none&host=chess.com&headerType=http&type=tcp#🇳🇱 00002 - NL
 
-vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?encryption=none&host=chess.com&headerType=http&type=tcp#🇳🇱 00003 - NL
+vless://48a6ebb0-a8f2-4b88-993f-cd4db4e3ea00@136.175.178.165:443?security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=/#🇺🇸 00003 - US
 
-vless://48a6ebb0-a8f2-4b88-993f-cd4db4e3ea00@136.175.178.165:443?security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=/#🇺🇸 00004 - US
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 00004 - US
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 00005 - US
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 00005 - US
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇺🇸 00006 - US
+vless://a7a5a5ab-4faa-4091-98b2-1f219e8a4984@136.175.178.165:443?security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=/#🇺🇸 00006 - US
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&fp=chrome&type=grpc&sni=/?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net#🇺🇸 00007 - US
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539?type=tcp&encryption=none&security=tls&sni=node1.nanonet.host&allowInsecure=1#🇸🇬 00007 - SG
 
-vless://9042affd-0ad3-4014-adbc-e52f00891ea2@199.241.32.132:26978?flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&sid=28bf&type=tcp&path=/#🇺🇸 00008 - US
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?type=ws&encryption=none&host=zoom.us&path=/FREE By Tharuwa (0767597317)#🇸🇬 00008 - SG
 
-vless://a7a5a5ab-4faa-4091-98b2-1f219e8a4984@136.175.178.165:443?security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=/#🇺🇸 00009 - US
+vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?encryption=none&host=tamin.ir&type=tcp&headerType=http#🇹🇷 00009 - TR
 
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539?type=tcp&encryption=none&security=tls&sni=node1.nanonet.host&allowInsecure=1#🇸🇬 00010 - SG
+vless://b129eb83-f083-4660-a81a-e5991519a281@spdnet.team-pluss.com:443?type=tcp&encryption=none&sni=eh.vk.ru&fp=chrome&security=reality&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&sid=78523b486884cc4d#🇳🇱 00010 - NL
 
-vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?type=ws&encryption=none&host=zoom.us&path=/FREE By Tharuwa (0767597317)#🇸🇬 00011 - SG
-
-vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&alpn=h2&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#🇩🇪 00012 - DE
-
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.201:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#🇳🇱 00013 - NL
-
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@kz01-vlr01.tcp-reset-club.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#🇰🇿 00014 - KZ
-
-vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?encryption=none&host=tamin.ir&type=tcp&headerType=http#🇹🇷 00015 - TR
-
-vless://563c07c5-d7a7-4f67-abee-ca323b5ce0ba@iar.blackhoster.com:351?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=fd1dff03520d8f56#🇩🇪 00016 - DE
-
-vless://8616687a-620f-4eb0-91c0-bcf8955f9ee3@api10.hohod.ir:443?type=tcp&encryption=none&sni=api10.hohod.ir&fp=chrome&security=reality&pbk=RTFgkbxjnYzB_p5dgpghCVLrSLe01gDhEVYUA6i2zBI&sid=f76f4629cfed#🇩🇪 00017 - DE
-
-vless://937f8940-ad8a-409f-93c3-4d6249af628f@nl1.miyazono-kaori.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.philips.com&fp=qq&security=reality&pbk=AFQAIB5u9Uu6nf9fkP1BdcSHivSuUv97l4FH-LoFYgw&sid=92dca6#🇳🇱 00018 - NL
-
-vless://937f8940-ad8a-409f-93c3-4d6249af628f@uk1.miyazono-kaori.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bp.com&fp=ios&security=reality&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&sid=d923#🇬🇧 00019 - GB
-
-vless://937f8940-ad8a-409f-93c3-4d6249af628f@uk2.miyazono-kaori.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bp.com&fp=firefox&security=reality&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&sid=20#🇬🇧 00020 - GB
-
-vless://b129eb83-f083-4660-a81a-e5991519a281@spdnet.team-pluss.com:443?type=tcp&encryption=none&sni=eh.vk.ru&fp=chrome&security=reality&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&sid=78523b486884cc4d#🇳🇱 00021 - NL
-
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443?type=tcp&encryption=none&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#🇫🇮 00022 - FI
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@45.144.52.229:443?type=tcp&encryption=none&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#🇫🇮 00011 - FI
 
 
