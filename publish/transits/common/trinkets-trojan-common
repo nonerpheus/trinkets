@@ -24,4 +24,84 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www
 
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🇯🇵 00012 - JP
 
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@hhhnju.taipei102.indevs.in:443?security=tls&sni=hhhnju.taipei102.indevs.in&alpn=http/1.1&type=ws&host=hhhnju.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&allow_insecure=0#🇺🇸 00013 - US
+
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?security=tls&sni=vvvbbbnhj.taipei102.indevs.in&type=ws&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&allow_insecure=0#🇺🇸 00014 - US
+
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@104.21.44.213:443?security=tls&sni=mMMhU.HUangSHANG.onlIne&alpn=http/1.1&type=ws&host=mMMhU.HUangSHANG.onlIne&path=/hV829BTVzg35A6ueyyZnWd#🇺🇸 00015 - US
+
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?security=tls&sni=nMk.288288.sHOP&alpn=http/1.1&type=ws&host=nMk.288288.sHOP&path=/hV829BTVzg35A6ueyyZnWd#🇺🇸 00016 - US
+
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.55:3423?security=tls&sni=www.nintendogames.net#🇯🇵 00017 - JP
+
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?security=tls&sni=www.nintendogames.net#🇯🇵 00018 - JP
+
+trojan://BxceQaOe@18.163.2.13:3159?security=tls&sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&headerType=none#🇭🇰 00019 - HK
+
+trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd&allow_insecure=0#🇺🇸 00020 - US
+
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#🇺🇸 00021 - US
+
+trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=mashdt.pages.dev&alpn=h3&type=ws&host=mashdt.pages.dev&path=/tr?ed=2560#🇺🇸 00022 - US
+
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇺🇸 00023 - US
+
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 00024 - US
+
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&type=ws&sni=www.calmlunch.com#🇺🇸 00025 - US
+
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇺🇸 00026 - US
+
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇺🇸 00027 - US
+
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇺🇸 00028 - US
+
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇺🇸 00029 - US
+
+trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🇺🇸 00030 - US
+
+trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🇺🇸 00031 - US
+
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇺🇸 00032 - US
+
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#🇺🇸 00033 - US
+
+trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇺🇸 00034 - US
+
+trojan://humanity@www.multiplydose.com:443?type=ws&path=/assignment&security=tls&allowInsecure=1#🇺🇸 00035 - US
+
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🇮🇸 00036 - IS
+
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#🇮🇸 00037 - IS
+
+trojan://telegram-id-directvpn@13.36.104.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00038 - FR
+
+trojan://telegram-id-directvpn@13.38.208.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00039 - FR
+
+trojan://telegram-id-directvpn@13.39.0.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00040 - FR
+
+trojan://telegram-id-directvpn@3.122.189.42:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00041 - DE
+
+trojan://telegram-id-directvpn@3.68.128.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00042 - DE
+
+trojan://telegram-id-directvpn@35.157.55.39:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00043 - DE
+
+trojan://telegram-id-directvpn@52.28.70.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00044 - DE
+
+trojan://telegram-id-privatevpns@13.36.104.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00045 - FR
+
+trojan://telegram-id-privatevpns@13.38.208.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00046 - FR
+
+trojan://telegram-id-privatevpns@13.39.0.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 00047 - FR
+
+trojan://telegram-id-privatevpns@3.122.189.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00048 - DE
+
+trojan://telegram-id-privatevpns@3.68.128.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00049 - DE
+
+trojan://telegram-id-privatevpns@35.157.55.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00050 - DE
+
+trojan://telegram-id-privatevpns@52.28.70.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 00051 - DE
+
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#🇪🇸 00052 - ES
+
 
