@@ -1,101 +1,29 @@
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.30.149:4365?encryption=none&type=grpc&security=reality&mode=gun&fp=random&sni=eh.vk.com&pbk=7l27aXKv2tgkIrgohE7iwiRC4bsGbTEOKkyG6K7m3wo#🇷🇺 00000 - RU
+vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@144.31.224.230:4546?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=enterprise.api-maps.yandex.ru&pbk=3DLDFzq0NAYBMrhDOaMM04A_Ictohao2yWOY1NdrJCk#🇳🇱 00000 - NL
 
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=/#🇷🇺 00001 - RU
+vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@37.139.35.40:31842?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sso.auto.ru&pbk=tJtvc3_iO8MH83xloyBErV_jxB-uqyd_y0r0rEFyXw4#🇷🇺 00001 - RU
 
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=/#🇷🇺 00002 - RU
+vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@144.31.230.128:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=sun1-91.userapi.com&pbk=4iRluJhaeflkqdEO8RLeLxTeTVIhzw9r8Y35fppsTFg#🇩🇪 00002 - DE
 
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&spx=/#🇷🇺 00003 - RU
+vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@37.139.35.40:8778?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=receive-sentry.lmru.tech&pbk=OOqB9mFan3ucg0FLHOdmgNgh7jdIc1wAy6AuU5dehxU#🇷🇺 00003 - RU
 
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955&spx=/#🇷🇺 00004 - RU
+vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@162.159.152.17:443?encryption=none&type=ws&security=tls&host=80bab3a2.gon-7ye.pages.dev&fp=chrome&sni=80bab3a2.gon-7ye.pages.dev&alpn=http/1.1#🇺🇸 00004 - US
 
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92#🇷🇺 00005 - RU
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@43.160.248.66:8443?encryption=none&type=ws&security=tls&path=/Telegram🇨🇳@WangCai2&host=ylnhh.cc.cd&fp=chrome&sni=ylnhh.cc.cd#🇸🇬 00005 - SG
 
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.94.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=/#🇷🇺 00006 - RU
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@85.192.41.103:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=wikihow.com&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4#🇳🇱 00006 - NL
 
-vless://1401682c-0e47-4eb9-b5ab-98243655be9b@64.188.76.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=www.apple.com&pbk=bX4qw2Yq0pg-gzsFtZdw5aD_oU838fH-38N6B77V8G0&sid=9affa3ac08531e68#🇫🇮 00007 - FI
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@188.114.97.3:443?encryption=none&type=ws&security=tls&path=/HoBSIvRY1m5xOEJ3dX414bl&host=bbbnmj.1xa.ccwu.cc&fp=chrome&sni=bbbnmj.1xa.ccwu.cc#🇺🇸 00007 - US
 
-vless://15190a50-e317-4acd-8baf-a6c8da1ae2ef@104.18.32.47:8443?encryption=none&type=ws&security=tls&path=/eyJqdW5rIjoiRnVQd3g0SjhLVjNhcFQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&host=003.electrocellco-cf-003.workers.dev&fp=chrome&sni=003.EleCtroCElLco-cf-003.woRKERS.DEv&alpn=http/1.1#🇺🇸 00008 - US
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rus.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇷🇺 00008 - RU
 
-vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84#🇳🇴 00009 - NO
+vless://3c09f263-0f1b-41fa-946d-0bf0eff48a99@64.188.71.230:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=store.steampowered.com&pbk=ZA_1U_jyptsFj3_858e_Cdoj4yecvxYPH7qRwwl-sE8&sid=183257bda6#🇩🇪 00009 - DE
 
-vless://34778794-72e8-4862-b1e7-6e6c3ba894be@172.67.139.251:443?encryption=none&type=ws&security=tls&path=/eDVWlsljXYWmzP5D1vsO&host=rt.dddc.us.ci&sni=rt.dddc.us.ci#🇺🇸 00010 - US
+vless://43e322c8-e044-4625-a560-9bfec45e0eae@150.241.71.141:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇫🇮 00010 - FI
 
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.30.149:4380?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=eh.vk.com&pbk=OIhzlaOTObsr3NMVBq1MqSlCCeELaBhZ1r7Z_1M6mRs#🇷🇺 00011 - RU
+vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@89.208.229.247:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 00011 - RU
 
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.30.149:4385?encryption=none&type=grpc&security=reality&mode=gun&fp=random&sni=eh.vk.com&pbk=IyEuX6Gf3uaWU2BeVlhPsTADZrFZmUsot_YdKZGZSWs#🇷🇺 00012 - RU
+vless://4fd2d5f6-d417-0bb8-9331-e20afde2fcd2@5.188.140.180:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 00012 - RU
 
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.41.69:4368?encryption=none&type=grpc&security=reality&mode=gun&fp=random&sni=eh.vk.com&pbk=7l27aXKv2tgkIrgohE7iwiRC4bsGbTEOKkyG6K7m3wo#🇷🇺 00013 - RU
-
-vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.41.69:4379?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=app.perekrestok.ru&pbk=IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q#🇷🇺 00014 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@188.68.218.21:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&spx=/#🇷🇺 00015 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&spx=/#🇷🇺 00016 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=3f200574d011010f&spx=/#🇷🇺 00017 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=/#🇷🇺 00018 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=/#🇷🇺 00019 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=/#🇷🇺 00020 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=/#🇷🇺 00021 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@51.250.72.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=/#🇷🇺 00022 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219&spx=/#🇷🇺 00023 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=/#🇷🇺 00024 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b&spx=/#🇷🇺 00025 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=7426b0c03ef009dc&spx=/#🇷🇺 00026 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=/#🇷🇺 00027 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=/#🇷🇺 00028 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=/#🇷🇺 00029 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&spx=/#🇷🇺 00030 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=/#🇷🇺 00031 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.135.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&spx=/#🇷🇺 00032 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.156.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=/#🇷🇺 00033 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.156.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&spx=/#🇷🇺 00034 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.156.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=87cc0414902bee2d&spx=/#🇷🇺 00035 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.156.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=/#🇷🇺 00036 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.156.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=/#🇷🇺 00037 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.158.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73&spx=/#🇷🇺 00038 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.158.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69&spx=/#🇷🇺 00039 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.158.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&spx=/#🇷🇺 00040 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.158.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92&spx=/#🇷🇺 00041 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.174.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=3f200574d011010f&spx=/#🇷🇺 00042 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.158.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca&spx=/#🇷🇺 00043 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.174.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a&spx=/#🇷🇺 00044 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.174.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=65ce6cee3941af69#🇷🇺 00045 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.174.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&spx=/#🇷🇺 00046 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.174.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79&spx=/#🇷🇺 00047 - RU
-
-vless://3fdd04dc-e9fe-4706-9c07-72eb2b6c4be0@84.201.174.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&spx=/#🇷🇺 00048 - RU
-
-vless://43e322c8-e044-4625-a560-9bfec45e0eae@150.241.71.140:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.net&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇫🇮 00049 - FI
+vless://5b3a86a3-f377-49dd-a1d9-93000320a2c9@138.124.107.222:44952?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=amazon.com&pbk=KE_6BmrmTYNh_vZdNUnQcg_CNVMdN8FRr9oMyLPLpgA&sid=ea3012ce504692&spx=/#🇹🇷 00013 - TR
 
 
