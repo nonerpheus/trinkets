@@ -282,6 +282,20 @@ trojan://humanity@188.114.98.0:443?allowInsecure=1&host=www.calmlunch.com&path=/
 
 trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 00141 - US
 
-trojan://Nova-Proxy@141.101.113.223:8443?path=/?ed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#🇺🇸 00142 - US
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nhj.1jj.ccwu.cc:443?security=tls&sni=nhj.1jj.ccwu.cc&alpn=http/1.1&type=ws&host=nhj.1jj.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00142 - US
+
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmki.1qq.ccwu.cc:443?security=tls&sni=nmki.1qq.ccwu.cc&alpn=http/1.1&type=ws&host=nmki.1qq.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00143 - US
+
+trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00144 - SG
+
+trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00145 - SG
+
+trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00146 - JP
+
+trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00147 - JP
+
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?sni=www.nintendogames.net&path=/#🇯🇵 00148 - JP
+
+trojan://Nova-Proxy@141.101.113.223:8443?path=/?ed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#🇺🇸 00149 - US
 
 
