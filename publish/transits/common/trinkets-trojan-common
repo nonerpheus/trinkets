@@ -262,76 +262,52 @@ trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?sni=www.nintendogam
 
 trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00131 - JP
 
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:3057?sni=www.nintendogames.net&path=/#🇯🇵 00132 - JP
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bgt.1x2.indevs.in:443?security=tls&sni=bgt.1x2.indevs.in&alpn=http/1.1&type=ws&host=bgt.1x2.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00132 - US
 
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4674?sni=www.nintendogames.net&path=/#🇯🇵 00133 - JP
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@kklo.1xq.indevs.in:443?security=tls&sni=kklo.1xq.indevs.in&alpn=http/1.1&type=ws&host=kklo.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00133 - US
 
-trojan://humanity@104.17.131.88:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 00134 - US
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@m9o0.1xq.indevs.in:443?security=tls&sni=m9o0.1xq.indevs.in&alpn=http/1.1&type=ws&host=m9o0.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00134 - US
 
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 00135 - US
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nhj.1jj.ccwu.cc:443?security=tls&sni=nhj.1jj.ccwu.cc&alpn=http/1.1&type=ws&host=nhj.1jj.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00135 - US
 
-trojan://humanity@104.18.8.83:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 00136 - US
+trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmki.1qq.ccwu.cc:443?security=tls&sni=nmki.1qq.ccwu.cc&alpn=http/1.1&type=ws&host=nmki.1qq.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00136 - US
 
-trojan://humanity@172.66.44.211:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 00137 - US
+trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00137 - SG
 
-trojan://humanity@172.67.180.92:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00138 - US
+trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00138 - SG
 
-trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 00139 - US
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4937?type=tcp&security=tls&sni=www.nintendogames.net#🇯🇵 00139 - JP
 
-trojan://humanity@188.114.98.0:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 00140 - US
+trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00140 - JP
 
-trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 00141 - US
+trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00141 - JP
 
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nhj.1jj.ccwu.cc:443?security=tls&sni=nhj.1jj.ccwu.cc&alpn=http/1.1&type=ws&host=nhj.1jj.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00142 - US
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?sni=www.nintendogames.net&path=/#🇯🇵 00142 - JP
 
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmki.1qq.ccwu.cc:443?security=tls&sni=nmki.1qq.ccwu.cc&alpn=http/1.1&type=ws&host=nmki.1qq.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00143 - US
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4937?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🇯🇵 00143 - JP
 
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00144 - SG
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🇳🇱 00144 - NL
 
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00145 - SG
+trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:3057?sni=www.nintendogames.net&path=/#🇯🇵 00145 - JP
 
-trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00146 - JP
+trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4674?sni=www.nintendogames.net&path=/#🇯🇵 00146 - JP
 
-trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00147 - JP
+trojan://humanity@104.17.131.88:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 00147 - US
 
-trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?sni=www.nintendogames.net&path=/#🇯🇵 00148 - JP
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 00148 - US
 
-trojan://Nova-Proxy@141.101.113.223:8443?path=/?ed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#🇺🇸 00149 - US
+trojan://humanity@104.18.8.83:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 00149 - US
 
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nhju.h2e.indevs.in:443?security=tls&sni=nhju.h2e.indevs.in&alpn=http/1.1&type=ws&host=nhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#🇺🇸 00150 - US
+trojan://humanity@172.66.44.211:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 00150 - US
 
-trojan://humanity@104.18.32.47:443?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#🇺🇸 00151 - US
+trojan://humanity@172.67.180.92:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00151 - US
 
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇺🇸 00152 - US
+trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 00152 - US
 
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇺🇸 00153 - US
+trojan://humanity@188.114.98.0:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸 00153 - US
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇺🇸 00154 - US
+trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 00154 - US
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇺🇸 00155 - US
-
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇺🇸 00156 - US
-
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#🇺🇸 00157 - US
-
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇪🇸 00158 - ES
-
-trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&fp=chrome&sni=www.gossipglove.com#🇺🇸 00159 - US
-
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇺🇸 00160 - US
-
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇺🇸 00161 - US
-
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 00162 - US
-
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#🇺🇸 00163 - US
-
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇺🇸 00164 - US
-
-trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=/assignment#🇺🇸 00165 - US
-
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#🇺🇸 00166 - US
-
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#🇺🇸 00167 - US
+trojan://Nova-Proxy@141.101.113.223:8443?path=/?ed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#🇺🇸 00155 - US
 
 
