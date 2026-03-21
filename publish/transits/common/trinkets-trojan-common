@@ -182,4 +182,8 @@ trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=w
 
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇺🇸 00091 - US
 
+trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19#🇺🇸 00092 - US
+
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?sni=www.nintendogames.net&path=/#🇯🇵 00093 - JP
+
 
