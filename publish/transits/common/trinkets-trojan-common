@@ -1,189 +1,41 @@
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?sni=www.nintendogames.net&path=/#🇯🇵 00000 - JP
+trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00000 - LU
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3419?sni=www.nintendogames.net&path=/#🇯🇵 00001 - JP
+trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&path=/#🇳🇱 00001 - NL
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 00002 - JP
+trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&type=tcp&headerType=none&path=/#🇳🇱 00002 - NL
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 00003 - JP
+trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls&allow_insecure=0#🇺🇸 00003 - US
 
-trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00004 - LU
+trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00004 - JP
 
-trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=0#🇭🇰 00005 - HK
+trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?sni=www.nintendogames.net&path=/#🇯🇵 00005 - JP
 
-trojan://IL37892054@upright-rhino.rooster465.autos:443?allowInsecure=1#🇳🇱 00006 - NL
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00006 - JP
 
-trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&path=/#🇳🇱 00007 - NL
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00007 - JP
 
-trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&type=tcp&headerType=none&path=/#🇳🇱 00008 - NL
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.205:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00008 - JP
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#🇺🇸 00009 - US
+trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls&path=/#🇱🇺 00009 - LU
 
-trojan://T9BpZIVMNv@104.18.185.26:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=/amd&sni=sweden.vmaxpanel.com&type=ws#🇺🇸 00010 - US
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos&path=/#🇯🇵 00010 - JP
 
-trojan://T9BpZIVMNv@v3.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=/amd&sni=sweden.vmaxpanel.com&type=ws#🇺🇸 00011 - US
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos&path=/#🇱🇺 00011 - LU
 
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=1#🇸🇬 00012 - SG
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&type=tcp&headerType=none&path=/#🇵🇱 00012 - PL
 
-trojan://ZY07256934@free-duckling.rooster465.autos:443?allowInsecure=1#🇸🇬 00013 - SG
+trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇭🇰 00013 - HK
 
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=1#🇰🇷 00014 - KR
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos&path=/#🇵🇱 00014 - PL
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 00015 - US
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos&type=tcp&headerType=none&path=/#🇵🇱 00015 - PL
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇺🇸 00016 - US
+trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos&path=/#🇰🇷 00016 - KR
 
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 00017 - US
+trojan://IL37892054@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&path=/#🇱🇺 00017 - LU
 
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇺🇸 00018 - US
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 00018 - KR
 
-trojan://humanity@172.67.180.92:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00019 - US
-
-trojan://humanity@188.114.96.3:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 00020 - US
-
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#🇺🇸 00021 - US
-
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.calmlunch.com&path=//assignment&sni=www.calmlunch.com&type=ws#🇺🇸 00022 - US
-
-trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇺🇸 00023 - US
-
-trojan://humanity@www.multiplydose.com:443?allowInsecure=1&path=/assignment&type=ws#🇺🇸 00024 - US
-
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇺🇸 00025 - US
-
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#🇺🇸 00026 - US
-
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp&headerType=none&path=/&allow_insecure=0#🇺🇸 00027 - US
-
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp&path=/#🇺🇸 00028 - US
-
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?sni=8443.golden-cards.me&path=/#🇺🇸 00029 - US
-
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#🇺🇸 00030 - US
-
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🇳🇱 00031 - NL
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.70.180:4937?sni=www.nintendogames.net&path=/#🇯🇵 00032 - JP
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?sni=www.nintendogames.net&path=/#🇯🇵 00033 - JP
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?sni=www.nintendogames.net&path=/#🇯🇵 00034 - JP
-
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&type=ws&path=/amd#🇺🇸 00035 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@mhju.h2e.indevs.in:443?security=tls&sni=mhju.h2e.indevs.in&alpn=http/1.1&type=ws&host=mhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#🇺🇸 00036 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@mmjk.3oo.ccwu.cc:443?security=tls&sni=mmjk.3oo.ccwu.cc&type=ws&host=mmjk.3oo.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 00037 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@mmjk.3oo.ccwu.cc:443?security=tls&sni=mmjk.3oo.ccwu.cc&alpn=http/1.1&fp=chrome&type=ws&host=mmjk.3oo.ccwu.cc&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 00038 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nhju.h2e.indevs.in:443?security=tls&sni=nhju.h2e.indevs.in&alpn=http/1.1&type=ws&host=nhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 00039 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nhju.h2e.indevs.in:443?security=tls&sni=nhju.h2e.indevs.in&fp=chrome&type=ws&host=nhju.h2e.indevs.in&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 00040 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nju.taipei104.indevs.in:443?security=tls&sni=nju.taipei104.indevs.in&alpn=http/1.1&type=ws&host=nju.taipei104.indevs.in&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 00041 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nju.taipei104.indevs.in:443?security=tls&sni=nju.taipei104.indevs.in&alpn=http/1.1&type=ws&host=nju.taipei104.indevs.in&path=/mRjWgF9aMWcpQ8L96b&allow_insecure=0#🇺🇸 00042 - US
-
-trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nju.taipei104.indevs.in:443?security=tls&sni=nju.taipei104.indevs.in&type=ws&path=/mRjWgF9aMWcpQ8L96b#🇺🇸 00043 - US
-
-trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00044 - JP
-
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/assignment#🇺🇸 00045 - US
-
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00046 - SG
-
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇸🇬 00047 - SG
-
-trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00048 - JP
-
-trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?sni=www.nintendogames.net&path=/#🇯🇵 00049 - JP
-
-trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 00050 - JP
-
-trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?sni=www.nintendogames.net&path=/#🇯🇵 00051 - JP
-
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&type=ws&path=/assignment#🇺🇸 00052 - US
-
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇺🇸 00053 - US
-
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click&fp=chrome&type=tcp&path=/#🇮🇸 00054 - IS
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bghy.1x9.indevs.in:443?security=tls&sni=bghy.1x9.indevs.in&alpn=http/1.1&type=ws&host=bghy.1x9.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00055 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bgt.1x2.indevs.in:443?security=tls&sni=bgt.1x2.indevs.in&type=ws&host=bgt.1x2.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00056 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bgt.1x2.indevs.in:443?security=tls&sni=bgt.1x2.indevs.in&alpn=http/1.1&type=ws&host=bgt.1x2.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00057 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@kklo.1xq.indevs.in:443?security=tls&sni=kklo.1xq.indevs.in&alpn=http/1.1&type=ws&host=kklo.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00058 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@kklo.1xq.indevs.in:443?security=tls&sni=kklo.1xq.indevs.in&type=ws&host=kklo.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00059 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@m9o0.1xq.indevs.in:443?security=tls&sni=m9o0.1xq.indevs.in&alpn=http/1.1&type=ws&host=m9o0.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00060 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@m9o0.1xq.indevs.in:443?security=tls&sni=m9o0.1xq.indevs.in&type=ws&host=m9o0.1xq.indevs.in&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00061 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@mjki.1nn.ccwu.cc:443?security=tls&sni=mjki.1nn.ccwu.cc&alpn=http/1.1&type=ws&host=mjki.1nn.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00062 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nhj.1jj.ccwu.cc:443?security=tls&sni=nhj.1jj.ccwu.cc&alpn=http/1.1&type=ws&host=nhj.1jj.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00063 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nhj.1jj.ccwu.cc:443?security=tls&sni=nhj.1jj.ccwu.cc&type=ws&host=nhj.1jj.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00064 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmk9o.1yy.ccwu.cc:443?security=tls&sni=nmk9o.1yy.ccwu.cc&alpn=http/1.1&type=ws&host=nmk9o.1yy.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00065 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmk9o.1yy.ccwu.cc:443?security=tls&sni=nmk9o.1yy.ccwu.cc&type=ws&host=nmk9o.1yy.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00066 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmki.1qq.ccwu.cc:443?security=tls&sni=nmki.1qq.ccwu.cc&alpn=http/1.1&type=ws&host=nmki.1qq.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00067 - US
-
-trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nmki.1qq.ccwu.cc:443?security=tls&sni=nmki.1qq.ccwu.cc&type=ws&host=nmki.1qq.ccwu.cc&path=/y1moM5CyNvYMZlzsYHmsMrnO#🇺🇸 00068 - US
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🇯🇵 00069 - JP
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3419?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🇯🇵 00070 - JP
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.70.180:4937?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00071 - JP
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00072 - JP
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00073 - JP
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00074 - JP
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvgt6.0z0.ccwu.cc:443?security=tls&sni=dcvgt6.0z0.ccwu.cc&alpn=http/1.1&type=ws&host=dcvgt6.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00075 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvgt6.0z0.ccwu.cc:443?security=tls&sni=dcvgt6.0z0.ccwu.cc&type=ws&host=dcvgt6.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00076 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvwsde.1gg.ccwu.cc:443?security=tls&sni=dcvwsde.1gg.ccwu.cc&alpn=http/1.1&type=ws&host=dcvwsde.1gg.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00077 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvwsde.1gg.ccwu.cc:443?security=tls&sni=dcvwsde.1gg.ccwu.cc&type=ws&host=dcvwsde.1gg.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00078 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@ddffghy.0wu.ccwu.cc:443?security=tls&sni=ddffghy.0wu.ccwu.cc&type=ws&host=ddffghy.0wu.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00079 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@fbnji.1sb.ccwu.cc:443?security=tls&alpn=http/1.1&type=ws&host=fbnji.1sb.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00080 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@fbnji.1sb.ccwu.cc:443?security=tls&sni=fbnji.1sb.ccwu.cc&alpn=http/1.1&type=ws&host=fbnji.1sb.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00081 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@ddffghy.0wu.ccwu.cc:443?security=tls&sni=ddffghy.0wu.ccwu.cc&alpn=http/1.1&type=ws&host=ddffghy.0wu.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00082 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@fbnji.1sb.ccwu.cc:443?security=tls&sni=fbnji.1sb.ccwu.cc&type=ws&host=fbnji.1sb.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00083 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@scvf65.0z0.ccwu.cc:443?security=tls&alpn=http/1.1&type=ws&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00084 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@scvf65.0z0.ccwu.cc:443?security=tls&sni=scvf65.0z0.ccwu.cc&alpn=http/1.1&type=ws&host=scvf65.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00085 - US
-
-trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@scvf65.0z0.ccwu.cc:443?security=tls&sni=scvf65.0z0.ccwu.cc&type=ws&host=scvf65.0z0.ccwu.cc&path=/QXP9D5w7xb1TX3RJBAQ5Ah#🇺🇸 00086 - US
-
-trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&type=ws&path=/#🇺🇸 00087 - US
-
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls&path=/#🇸🇬 00088 - SG
-
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls&path=/#🇸🇬 00089 - SG
-
-trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00090 - JP
-
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#🇺🇸 00091 - US
-
-trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19#🇺🇸 00092 - US
-
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?sni=www.nintendogames.net&path=/#🇯🇵 00093 - JP
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&path=/#🇰🇷 00019 - KR
 
 
