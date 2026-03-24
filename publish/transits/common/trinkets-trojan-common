@@ -38,4 +38,62 @@ trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-d
 
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&path=/#🇰🇷 00019 - KR
 
+trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http/1.1&type=ws&host=BPbG.AnguSWEN.Top&path=/eyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19&allow_insecure=0#🇺🇸 00020 - US
+
+trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?allowInsecure=1&host=nnet.online&path=/trojan-tls&sni=VPN.NNET.Online&type=ws#🇺🇸 00021 - US
+
+trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#🇺🇸 00022 - US
+
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws#🇸🇬 00023 - SG
+
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&sni=caring-ghoul.rooster465.autos&type=tcp&headerType=none&path=/#🇭🇰 00024 - HK
+
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇭🇰 00025 - HK
+
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?sni=caring-ghoul.rooster465.autos&path=/#🇭🇰 00026 - HK
+
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00027 - LU
+
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00028 - LU
+
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?sni=enhanced-crayfish.rooster465.autos&path=/#🇱🇺 00029 - LU
+
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz&type=tcp&headerType=none&path=/#🇵🇱 00030 - PL
+
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?sni=fluent-stingray.crayfish192.xyz&path=/#🇵🇱 00031 - PL
+
+trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&path=/#🇭🇰 00032 - HK
+
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇵🇱 00033 - PL
+
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?sni=outgoing-ladybird.rooster465.autos&path=/#🇵🇱 00034 - PL
+
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00035 - LU
+
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00036 - LU
+
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#🇳🇱 00037 - NL
+
+trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#🇺🇸 00038 - US
+
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com&path=/#🇳🇱 00039 - NL
+
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#🇺🇸 00040 - US
+
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&type=ws#🇺🇸 00041 - US
+
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&allow_insecure=0#🇺🇸 00042 - US
+
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g&allow_insecure=0#🇺🇸 00043 - US
+
+trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00044 - US
+
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00045 - US
+
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=//assignment&type=ws#🇺🇸 00046 - US
+
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&path=/#🇺🇸 00047 - US
+
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🇳🇴 00048 - NO
+
 
