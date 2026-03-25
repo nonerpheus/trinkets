@@ -1,103 +1,181 @@
-trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http/1.1&type=ws&host=BPbG.AnguSWEN.Top&path=/eyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19&allow_insecure=0#🇺🇸 00000 - US
+trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?allowInsecure=1&host=nnet.online&path=/trojan-tls&sni=VPN.NNET.Online&type=ws#🇺🇸 00000 - US
 
-trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?allowInsecure=1&host=nnet.online&path=/trojan-tls&sni=VPN.NNET.Online&type=ws#🇺🇸 00001 - US
+trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#🇺🇸 00001 - US
 
-trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#🇺🇸 00002 - US
+trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls&allow_insecure=0#🇺🇸 00002 - US
 
-trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls&allow_insecure=0#🇺🇸 00003 - US
+trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?sni=VPN.NNET.Online&type=ws&host=nnet.online&path=/trojan-tls#🇺🇸 00003 - US
 
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🇭🇰 00004 - HK
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:1524?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00004 - JP
 
-trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=1#🇭🇰 00005 - HK
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:1524?sni=www.nintendogames.net&path=/#🇯🇵 00005 - JP
 
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#🇳🇱 00006 - NL
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00006 - JP
 
-trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#🇺🇸 00007 - US
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?sni=www.nintendogames.net&path=/#🇯🇵 00007 - JP
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#🇺🇸 00008 - US
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:1524?sni=www.nintendogames.net&path=/#🇯🇵 00008 - JP
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&type=ws#🇺🇸 00009 - US
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:3700?sni=www.nintendogames.net&path=/#🇯🇵 00009 - JP
 
-trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00010 - US
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🇭🇰 00010 - HK
 
-trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00011 - US
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&path=/#🇭🇰 00011 - HK
 
-trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=//assignment&type=ws#🇺🇸 00012 - US
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos&path=/#🇱🇺 00012 - LU
 
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🇳🇴 00013 - NO
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?sni=enhanced-crayfish.rooster465.autos&path=/#🇱🇺 00013 - LU
 
-trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00014 - LU
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&path=/#🇵🇱 00014 - PL
 
-trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&path=/#🇳🇱 00015 - NL
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz&path=/#🇵🇱 00015 - PL
 
-trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&type=tcp&headerType=none&path=/#🇳🇱 00016 - NL
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?sni=fluent-stingray.crayfish192.xyz&path=/#🇵🇱 00016 - PL
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00017 - JP
+trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=1#🇭🇰 00017 - HK
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?sni=www.nintendogames.net&path=/#🇯🇵 00018 - JP
+trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&path=/#🇭🇰 00018 - HK
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00019 - JP
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos&path=/#🇵🇱 00019 - PL
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00020 - JP
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?sni=outgoing-ladybird.rooster465.autos&path=/#🇵🇱 00020 - PL
 
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.205:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00021 - JP
+trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos&path=/#🇰🇷 00021 - KR
 
-trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls&path=/#🇱🇺 00022 - LU
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos&path=/#🇱🇺 00022 - LU
 
-trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos&path=/#🇯🇵 00023 - JP
+trojan://IL37892054@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&path=/#🇱🇺 00023 - LU
 
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos&path=/#🇱🇺 00024 - LU
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#🇳🇱 00024 - NL
 
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&type=tcp&headerType=none&path=/#🇵🇱 00025 - PL
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com&path=/#🇳🇱 00025 - NL
 
-trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇭🇰 00026 - HK
+trojan://Nova-Proxy@104.16.190.233:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#🇺🇸 00026 - US
 
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos&path=/#🇵🇱 00027 - PL
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#🇺🇸 00027 - US
 
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos&type=tcp&headerType=none&path=/#🇵🇱 00028 - PL
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&type=ws#🇺🇸 00028 - US
 
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos&path=/#🇰🇷 00029 - KR
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&path=/#🇰🇷 00029 - KR
 
-trojan://IL37892054@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&path=/#🇱🇺 00030 - LU
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇺🇸 00030 - US
 
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 00031 - KR
+trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 00031 - US
 
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&path=/#🇰🇷 00032 - KR
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇺🇸 00032 - US
 
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws#🇸🇬 00033 - SG
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 00033 - US
 
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&sni=caring-ghoul.rooster465.autos&type=tcp&headerType=none&path=/#🇭🇰 00034 - HK
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇺🇸 00034 - US
 
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇭🇰 00035 - HK
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 00035 - US
 
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?sni=caring-ghoul.rooster465.autos&path=/#🇭🇰 00036 - HK
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇺🇸 00036 - US
 
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00037 - LU
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇺🇸 00037 - US
 
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00038 - LU
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇺🇸 00038 - US
 
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?sni=enhanced-crayfish.rooster465.autos&path=/#🇱🇺 00039 - LU
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#🇺🇸 00039 - US
 
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz&type=tcp&headerType=none&path=/#🇵🇱 00040 - PL
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#🇪🇸 00040 - ES
 
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?sni=fluent-stingray.crayfish192.xyz&path=/#🇵🇱 00041 - PL
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇪🇸 00041 - ES
 
-trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&path=/#🇭🇰 00042 - HK
+trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00042 - US
 
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇵🇱 00043 - PL
+trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&fp=chrome&sni=www.gossipglove.com#🇺🇸 00043 - US
 
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?sni=outgoing-ladybird.rooster465.autos&path=/#🇵🇱 00044 - PL
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇺🇸 00044 - US
 
-trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00045 - LU
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&sni=www.multiplydose.com&type=ws#🇺🇸 00045 - US
 
-trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00046 - LU
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇺🇸 00046 - US
 
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com&path=/#🇳🇱 00047 - NL
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 00047 - US
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&allow_insecure=0#🇺🇸 00048 - US
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇺🇸 00048 - US
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g&allow_insecure=0#🇺🇸 00049 - US
+trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇺🇸 00049 - US
 
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&path=/#🇺🇸 00050 - US
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=/assignment#🇺🇸 00050 - US
+
+trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=/assignment#🇺🇸 00051 - US
+
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=//assignment&type=ws#🇺🇸 00052 - US
+
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇺🇸 00053 - US
+
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=/assignment#🇺🇸 00054 - US
+
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&path=/assignment&allow_insecure=0#🇺🇸 00055 - US
+
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#🇺🇸 00056 - US
+
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp&headerType=none&path=/&allow_insecure=0#🇺🇸 00057 - US
+
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp&path=/#🇺🇸 00058 - US
+
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#🇺🇸 00059 - US
+
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🇳🇱 00060 - NL
+
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🇳🇴 00061 - NO
+
+trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00062 - LU
+
+trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&path=/#🇳🇱 00063 - NL
+
+trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos&type=tcp&headerType=none&path=/#🇳🇱 00064 - NL
+
+trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00065 - JP
+
+trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?sni=www.nintendogames.net&path=/#🇯🇵 00066 - JP
+
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00067 - JP
+
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00068 - JP
+
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.205:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00069 - JP
+
+trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls&path=/#🇱🇺 00070 - LU
+
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos&path=/#🇯🇵 00071 - JP
+
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&type=tcp&headerType=none&path=/#🇵🇱 00072 - PL
+
+trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇭🇰 00073 - HK
+
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos&type=tcp&headerType=none&path=/#🇵🇱 00074 - PL
+
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 00075 - KR
+
+trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http/1.1&type=ws&host=BPbG.AnguSWEN.Top&path=/eyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19&allow_insecure=0#🇺🇸 00076 - US
+
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws#🇸🇬 00077 - SG
+
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&sni=caring-ghoul.rooster465.autos&type=tcp&headerType=none&path=/#🇭🇰 00078 - HK
+
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇭🇰 00079 - HK
+
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?sni=caring-ghoul.rooster465.autos&path=/#🇭🇰 00080 - HK
+
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00081 - LU
+
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00082 - LU
+
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz&type=tcp&headerType=none&path=/#🇵🇱 00083 - PL
+
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇵🇱 00084 - PL
+
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00085 - LU
+
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇱🇺 00086 - LU
+
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&allow_insecure=0#🇺🇸 00087 - US
+
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g&allow_insecure=0#🇺🇸 00088 - US
+
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&path=/#🇺🇸 00089 - US
 
 
