@@ -12,30 +12,46 @@ trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshaw
 
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&sni=touching-pigeon.rooster465.autos&path=/#🇳🇱 00006 - NL
 
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 00007 - JP
+trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?sni=n2.chateditimage.com&path=/#🇺🇸 00007 - US
 
-trojan://IL37892054@healthy-ewe.rooster465.autos:443?allowInsecure=1#🇺🇸 00008 - US
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@153.121.38.213:4937?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00008 - JP
 
-trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#🇺🇸 00009 - US
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@153.121.38.213:4937?sni=www.nintendogames.net&path=/#🇯🇵 00009 - JP
 
-trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls&sni=evolving-kangaroo.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00010 - LU
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@153.121.45.139:34818?sni=www.nintendogames.net&path=/#🇯🇵 00010 - JP
 
-trojan://WF42809561@fun-seagull.rooster465.autos:443?allowInsecure=1#🇳🇱 00011 - NL
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 00011 - JP
 
-trojan://WF42809561@model-stingray.crayfish192.xyz:443?security=tls&sni=model-stingray.crayfish192.xyz&type=tcp&headerType=none&path=/#🇳🇱 00012 - NL
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🇯🇵 00012 - JP
 
-trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos&type=tcp&headerType=none&path=/#🇩🇪 00013 - DE
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.130.21:4674?sni=www.nintendogames.net&path=/#🇯🇵 00013 - JP
 
-trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇩🇪 00014 - DE
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.214.104:4674?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 00014 - JP
 
-trojan://WF42809561@premium-lab.rooster465.autos:443?security=tls&sni=premium-lab.rooster465.autos&type=tcp&headerType=none&path=/#🇦🇺 00015 - AU
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.214.104:4674?sni=www.nintendogames.net&path=/#🇯🇵 00015 - JP
 
-trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#🇳🇱 00016 - NL
+trojan://IL37892054@healthy-ewe.rooster465.autos:443?allowInsecure=1#🇺🇸 00016 - US
 
-trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&sni=touching-pigeon.rooster465.autos&type=tcp&headerType=none&path=/#🇳🇱 00017 - NL
+trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=/?ed&sni=small-morning-2668.drusavm.workers.dev&type=ws#🇺🇸 00017 - US
 
-trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 00018 - US
+trojan://WF42809561@fun-seagull.rooster465.autos:443?allowInsecure=1#🇳🇱 00018 - NL
 
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 00019 - US
+trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#🇳🇱 00019 - NL
+
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 00020 - US
+
+trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#🇺🇸 00021 - US
+
+trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls&sni=evolving-kangaroo.rooster465.autos&type=tcp&headerType=none&path=/#🇱🇺 00022 - LU
+
+trojan://WF42809561@model-stingray.crayfish192.xyz:443?security=tls&sni=model-stingray.crayfish192.xyz&type=tcp&headerType=none&path=/#🇳🇱 00023 - NL
+
+trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos&type=tcp&headerType=none&path=/#🇩🇪 00024 - DE
+
+trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇩🇪 00025 - DE
+
+trojan://WF42809561@premium-lab.rooster465.autos:443?security=tls&sni=premium-lab.rooster465.autos&type=tcp&headerType=none&path=/#🇦🇺 00026 - AU
+
+trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&sni=touching-pigeon.rooster465.autos&type=tcp&headerType=none&path=/#🇳🇱 00027 - NL
 
 
